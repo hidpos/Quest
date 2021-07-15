@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: 77041b8ce15a83646b0549a5e5853ff7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Ampero
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b0f5c7413e6651e4285990458498f6db, type: 3}
+  - {fileID: 12800000, guid: d46afb7b72033ef4497a05915c1f2349, type: 3}
+  - {fileID: 12800000, guid: a0c837d9ede99044b8cf708f1d75dc4f, type: 3}
+  - {fileID: 12800000, guid: 95541153307cd4d4f972eaa6e1b52e14, type: 3}
+  - {fileID: 12800000, guid: 959f01b22c12c6d4687413e4788a67e4, type: 3}
+  - {fileID: 12800000, guid: b58d41d792569ec4f9faad5f6df642ed, type: 3}
+  - {fileID: 12800000, guid: b5adc0143547889448d9b7dbb7eb7a96, type: 3}
+  - {fileID: 12800000, guid: 5146a2657cb916646b99c5498f31b799, type: 3}
+  - {fileID: 12800000, guid: 22b88295194c1644a9809d37ba568404, type: 3}
+  - {fileID: 12800000, guid: c09abff22c0ee3e4396da5c334f45ead, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
